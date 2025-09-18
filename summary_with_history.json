@@ -3,47 +3,47 @@
     {
       "id": "B01",
       "name": "B01",
-      "last_accumulated": 0,
-      "new_issues": 8,
-      "resolved": 0,
-      "details": "B01 本次新增 8 筆，已修正 0 筆",
+      "last_accumulated": 8,
+      "new_issues": 6,
+      "resolved": 7,
+      "details": "B01 本次新增 6 筆，已修正 7 筆",
       "history": [
         {
-          "date": "2025-07-03",
-          "accumulated": 0,
-          "new_issues": 8,
-          "resolved": 0
+          "date": "2025-09-23",
+          "accumulated": 8,
+          "new_issues": 6,
+          "resolved": 7
         }
       ]
     },
     {
       "id": "B02",
       "name": "B02",
-      "last_accumulated": 0,
-      "new_issues": 11,
-      "resolved": 0,
-      "details": "B02 本次新增 11 筆，已修正 0 筆",
+      "last_accumulated": 11,
+      "new_issues": 9,
+      "resolved": 10,
+      "details": "B02 本次新增 9 筆，已修正 10 筆",
       "history": [
         {
-          "date": "2025-07-03",
-          "accumulated": 0,
-          "new_issues": 11,
-          "resolved": 0
+          "date": "2025-09-23",
+          "accumulated": 11,
+          "new_issues": 9,
+          "resolved": 10
         }
       ]
     },
     {
       "id": "B03",
       "name": "B03",
-      "last_accumulated": 0,
-      "new_issues": 13,
+      "last_accumulated": 13,
+      "new_issues": 0,
       "resolved": 0,
-      "details": "B03 本次新增 13 筆，已修正 0 筆",
+      "details": "B03 本次新增 0 筆，已修正 0 筆",
       "history": [
         {
-          "date": "2025-07-03",
-          "accumulated": 0,
-          "new_issues": 13,
+          "date": "2025-09-23",
+          "accumulated": 13,
+          "new_issues": 0,
           "resolved": 0
         }
       ]
@@ -51,15 +51,15 @@
     {
       "id": "B04",
       "name": "B04",
-      "last_accumulated": 0,
-      "new_issues": 14,
+      "last_accumulated": 14,
+      "new_issues": 0,
       "resolved": 0,
-      "details": "B04 本次新增 14 筆，已修正 0 筆",
+      "details": "B04 本次新增 0 筆，已修正 0 筆",
       "history": [
         {
-          "date": "2025-07-03",
-          "accumulated": 0,
-          "new_issues": 14,
+          "date": "2025-09-23",
+          "accumulated": 14,
+          "new_issues": 0,
           "resolved": 0
         }
       ]
