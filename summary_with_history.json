@@ -48,9 +48,9 @@
       "id": "B03",
       "name": "B03",
       "last_accumulated": 13,
-      "new_issues": 0,
-      "resolved": 0,
-      "details": "B03 本次新增 0 筆，已修正 0 筆",
+      "new_issues": 9,
+      "resolved": 11,
+      "details": "B03 本次新增 9 筆，已修正 11 筆",
       "history": [
         {
           "date": "2025-07-03",
@@ -61,8 +61,8 @@
         {
           "date": "2025-09-23",
           "accumulated": 13,
-          "new_issues": 0,
-          "resolved": 0
+          "new_issues": 9,
+          "resolved": 11
         }
       ]
     },
@@ -70,9 +70,9 @@
       "id": "B04",
       "name": "B04",
       "last_accumulated": 14,
-      "new_issues": 0,
-      "resolved": 0,
-      "details": "B04 本次新增 0 筆，已修正 0 筆",
+      "new_issues": 9,
+      "resolved": 9,
+      "details": "B04 本次新增 9 筆，已修正 9 筆",
       "history": [
         {
           "date": "2025-07-03",
@@ -83,8 +83,8 @@
         {
           "date": "2025-09-23",
           "accumulated": 14,
-          "new_issues": 0,
-          "resolved": 0
+          "new_issues": 9,
+          "resolved": 9
         }
       ]
     },
