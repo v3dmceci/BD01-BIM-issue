@@ -39,8 +39,8 @@
       "name": "B02",
       "last_accumulated": 25,
       "new_issues": 2,
-      "resolved": 29,
-      "details": "B02 本次新增 2 筆，已修正 29 筆",
+      "resolved": 25,
+      "details": "B02 本次新增 2 筆，已修正 25 筆",
       "history": [
         {
           "date": "2025-07-03",
@@ -64,7 +64,7 @@
           "date": "2025-11-20",
           "accumulated": 25,
           "new_issues": 2,
-          "resolved": 29
+          "resolved": 25
         }
       ]
     },
