@@ -163,10 +163,10 @@
     {
       "id": "B05",
       "name": "B05",
-      "last_accumulated": 35,
-      "new_issues": 13,
-      "resolved": 34,
-      "details": "B05 本次新增 13 筆，已修正 34 筆",
+      "last_accumulated": 48,
+      "new_issues": 9,
+      "resolved": 41,
+      "details": "B05 本次新增 9 筆，已修正 41 筆",
       "history": [
         {
           "date": "2025-07-17",
@@ -197,16 +197,22 @@
           "accumulated": 35,
           "new_issues": 13,
           "resolved": 34
+        },
+        {
+          "date": "2026-01-23",
+          "accumulated": 48,
+          "new_issues": 9,
+          "resolved": 41
         }
       ]
     },
     {
       "id": "B06",
       "name": "B06",
-      "last_accumulated": 40,
-      "new_issues": 6,
-      "resolved": 32,
-      "details": "B06 本次新增 6 筆，已修正 32 筆",
+      "last_accumulated": 46,
+      "new_issues": 5,
+      "resolved": 40,
+      "details": "B06 本次新增 5 筆，已修正 40 筆",
       "history": [
         {
           "date": "2025-07-17",
@@ -237,16 +243,22 @@
           "accumulated": 40,
           "new_issues": 6,
           "resolved": 32
+        },
+        {
+          "date": "2026-01-23",
+          "accumulated": 46,
+          "new_issues": 5,
+          "resolved": 40
         }
       ]
     },
     {
       "id": "B07",
       "name": "B07",
-      "last_accumulated": 44,
-      "new_issues": 12,
-      "resolved": 36,
-      "details": "B07 本次新增 12 筆，已修正 36 筆",
+      "last_accumulated": 56,
+      "new_issues": 7,
+      "resolved": 46,
+      "details": "B07 本次新增 7 筆，已修正 46 筆",
       "history": [
         {
           "date": "2025-07-17",
@@ -277,16 +289,22 @@
           "accumulated": 44,
           "new_issues": 12,
           "resolved": 36
+        },
+        {
+          "date": "2026-01-23",
+          "accumulated": 56,
+          "new_issues": 7,
+          "resolved": 46
         }
       ]
     },
     {
       "id": "B08",
       "name": "B08",
-      "last_accumulated": 51,
-      "new_issues": 10,
-      "resolved": 44,
-      "details": "B08 本次新增 10 筆，已修正 44 筆",
+      "last_accumulated": 61,
+      "new_issues": 9,
+      "resolved": 53,
+      "details": "B08 本次新增 9 筆，已修正 53 筆",
       "history": [
         {
           "date": "2025-07-17",
@@ -317,6 +335,12 @@
           "accumulated": 51,
           "new_issues": 10,
           "resolved": 44
+        },
+        {
+          "date": "2026-01-23",
+          "accumulated": 61,
+          "new_issues": 9,
+          "resolved": 53
         }
       ]
     }
