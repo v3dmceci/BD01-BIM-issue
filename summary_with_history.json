@@ -339,8 +339,8 @@
       "name": "B08",
       "last_accumulated": 70,
       "new_issues": 1,
-      "resolved": 71,
-      "details": "B08 本次新增 1 筆，已修正 71 筆",
+      "resolved": 62,
+      "details": "B08 本次新增 1 筆，已修正 62 筆",
       "history": [
         {
           "date": "2025-07-17",
@@ -388,7 +388,7 @@
           "date": "2026-02-26",
           "accumulated": 70,
           "new_issues": 1,
-          "resolved": 71
+          "resolved": 62
         }
       ]
     }
