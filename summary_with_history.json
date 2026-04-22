@@ -49,10 +49,10 @@
     {
       "id": "B02",
       "name": "B02",
-      "last_accumulated": 27,
-      "new_issues": 11,
-      "resolved": 29,
-      "details": "B02 本次新增 11 筆，已修正 29 筆",
+      "last_accumulated": 38,
+      "new_issues": 23,
+      "resolved": 40,
+      "details": "B02 本次新增 23 筆，已修正 40 筆",
       "history": [
         {
           "date": "2025-07-03",
@@ -83,6 +83,12 @@
           "accumulated": 27,
           "new_issues": 11,
           "resolved": 29
+        },
+        {
+          "date": "2026-04-23",
+          "accumulated": 38,
+          "new_issues": 23,
+          "resolved": 40
         }
       ]
     },
