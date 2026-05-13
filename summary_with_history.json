@@ -95,10 +95,10 @@
     {
       "id": "B03",
       "name": "B03",
-      "last_accumulated": 51,
-      "new_issues": 4,
-      "resolved": 36,
-      "details": "B03 本次新增 4 筆，已修正 36 筆",
+      "last_accumulated": 55,
+      "new_issues": 20,
+      "resolved": 40,
+      "details": "B03 本次新增 20 筆，已修正 40 筆",
       "history": [
         {
           "date": "2025-07-03",
@@ -129,6 +129,12 @@
           "accumulated": 51,
           "new_issues": 4,
           "resolved": 36
+        },
+        {
+          "date": "2026-05-14",
+          "accumulated": 55,
+          "new_issues": 20,
+          "resolved": 40
         }
       ]
     },
